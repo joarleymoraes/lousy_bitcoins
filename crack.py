@@ -41,7 +41,6 @@ def crack(pwd_file):
                     priv = sha256(pwd)
                     pub = privtopub(priv)
                     addr = pubtoaddr(pub)
-                    print addr
                     h = history(addr)
                     if h and any(h):
                         count_exists += 1
