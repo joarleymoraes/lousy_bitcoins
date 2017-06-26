@@ -19,6 +19,9 @@ Some findings with history:
 - 'sausage': https://bitref.com/1LdgTMX2MEqdfT3VcDpX4GyD1mqCP8LkYe
 - 'test': https://bitref.com/1LxXC4tTyubWLAF9Z23FcMUNKAJfR5HbDK
 
+# Usage
+
+`python crack.py <password_list_file>` 
  
 
 
