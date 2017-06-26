@@ -1,5 +1,5 @@
 # lousy_bitcoins
-Utility to try crack bitcoins private keys generated from weak passphrases.
+Utility to try to crack bitcoins private keys generated from weak passphrases.
 
 # Disclamer
 
