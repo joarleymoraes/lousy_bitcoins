@@ -21,6 +21,8 @@ Some findings with history:
 
 # Usage
 
+It supports Python 2 only.
+
 `python crack.py <password_list_file>` 
  
 
