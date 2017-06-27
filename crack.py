@@ -54,7 +54,7 @@ def crack(pwd_file):
                             print('Private Key: {}'.format(priv))
                             print('Public Key: {}'.format(pub))
 
-            except Exception, e:
+            except Exception as e:
                 count_errors += 1
                 print('Error on {}'.format(pwd))
                 print(e)
