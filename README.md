@@ -18,6 +18,7 @@ Some findings with history:
 
 - 'sausage': https://bitref.com/1LdgTMX2MEqdfT3VcDpX4GyD1mqCP8LkYe
 - 'test': https://bitref.com/1LxXC4tTyubWLAF9Z23FcMUNKAJfR5HbDK
+- 'lol': https://bitref.com/1LuKiaNUT936SYHvErofFEqX1LAN6Z62Vg
 
 # Usage
 
